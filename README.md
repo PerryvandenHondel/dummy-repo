@@ -3,3 +3,4 @@ Dummy repo to test scripted pull
 
 Test new line!
 New line again!
+And one more line!
